@@ -2,5 +2,7 @@
 using namespace std;
 
 int main() {
-  cout << "C++ Language.";
+  cout << "Updated C++ file in Patch1 branch.";
+
+  return 0;
 }
